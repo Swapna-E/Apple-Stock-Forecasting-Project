@@ -4,4 +4,3 @@ streamlit
 pickle
 statsmodels
 matplotlib
-seaborn
